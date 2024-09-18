@@ -1,5 +1,4 @@
-[![MasterHead](https://https://github.com/selenkaptanoglu/selenkaptanoglu/blob/main/img).
-![].(https://komarev.com/ghpvc/?username=selenkaptanoglu&color=pink).
+
 <h1 align="center">Hi 👋, I'm Selen Kaptanoğlu</h1>
 <h3 align="center">A passionate Frontend developer from Türkiye</h3>
 
