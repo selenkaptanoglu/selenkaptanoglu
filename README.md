@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Selen Kaptanoğlu</h1>
 <h3 align="center">A passionate Frontend developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **React** and **ASP.NET**
 
 - 📫 How to reach me **selenkaptanoglu14@gmail.com**
 
